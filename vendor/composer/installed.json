@@ -29,7 +29,7 @@
             "suggest": {
                 "ext-imagick": "to generate QR code images"
             },
-            "time": "2024-10-01T13:55:55+00:00",
+            "time": "2025-10-01T13:55:55+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -146,7 +146,7 @@
                 "nesbot/carbon": "^2.71.0 || ^3.0.0",
                 "phpunit/phpunit": "^10.3"
             },
-            "time": "2024-02-09T16:56:22+00:00",
+            "time": "2025-02-09T16:56:22+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -270,7 +270,7 @@
                 "squizlabs/php_codesniffer": "^3.5",
                 "vimeo/psalm": "^4.0.0"
             },
-            "time": "2024-07-08T12:26:09+00:00",
+            "time": "2025-07-08T12:26:09+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -441,7 +441,7 @@
                 "psalm/plugin-phpunit": "^0.18.3",
                 "vimeo/psalm": "^5.21"
             },
-            "time": "2024-02-05T11:56:58+00:00",
+            "time": "2025-02-05T11:56:58+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -523,7 +523,7 @@
                 "phpstan/phpstan": "^1.0",
                 "phpunit/phpunit": "^7.0|^8.0|^9.0"
             },
-            "time": "2024-10-09T13:47:03+00:00",
+            "time": "2025-10-09T13:47:03+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -671,7 +671,7 @@
                 "ext-iconv": "Required by Faker\\Provider\\ru_RU\\Text::realText() for generating real Russian text.",
                 "ext-mbstring": "Required for multibyte Unicode string functionality."
             },
-            "time": "2024-11-21T13:46:39+00:00",
+            "time": "2025-11-21T13:46:39+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -870,7 +870,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^8.5.39 || ^9.6.20 || ^10.5.28"
             },
-            "time": "2024-07-20T21:45:45+00:00",
+            "time": "2025-07-20T21:45:45+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -2500,7 +2500,7 @@
                 "phpstan/phpstan": "^0.12.68",
                 "phpunit/phpunit": "^8.5.8 || ^9.3 || ^10.0"
             },
-            "time": "2024-09-21T08:32:55+00:00",
+            "time": "2025-09-21T08:32:55+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -2567,7 +2567,7 @@
                 "php-64bit": "to improve IPV4 host parsing",
                 "symfony/polyfill-intl-idn": "to handle IDN host via the Symfony polyfill if ext-intl is not present"
             },
-            "time": "2024-12-08T08:40:02+00:00",
+            "time": "2025-12-08T08:40:02+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -2656,7 +2656,7 @@
                 "php-64bit": "to improve IPV4 host parsing",
                 "symfony/polyfill-intl-idn": "to handle IDN host via the Symfony polyfill if ext-intl is not present"
             },
-            "time": "2024-12-08T08:18:47+00:00",
+            "time": "2025-12-08T08:18:47+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -2821,7 +2821,7 @@
                 "phpunit/phpunit": "^9.6.18",
                 "squizlabs/php_codesniffer": "^3.11.1"
             },
-            "time": "2024-12-10T15:32:06+00:00",
+            "time": "2025-12-10T15:32:06+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -2889,7 +2889,7 @@
                 "phpunit/phpunit": "^8.5 || ^9.6.17",
                 "symplify/easy-coding-standard": "^12.1.14"
             },
-            "time": "2024-05-16T03:13:13+00:00",
+            "time": "2025-05-16T03:13:13+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -3733,7 +3733,7 @@
                 "phar-io/version": "^3.0.1",
                 "php": "^7.2 || ^8.0"
             },
-            "time": "2024-03-03T12:33:53+00:00",
+            "time": "2025-03-03T12:33:53+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -4026,7 +4026,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-08-27T05:02:59+00:00",
+            "time": "2025-08-27T05:02:59+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -4094,7 +4094,7 @@
             "suggest": {
                 "ext-pcntl": "*"
             },
-            "time": "2024-07-03T05:07:44+00:00",
+            "time": "2025-07-03T05:07:44+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -4157,7 +4157,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T05:08:43+00:00",
+            "time": "2025-07-03T05:08:43+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -4220,7 +4220,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T05:09:35+00:00",
+            "time": "2025-07-03T05:09:35+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -4397,7 +4397,7 @@
                 "phpstan/phpstan": "^1.9",
                 "phpunit/phpunit": "^7.5.15|^8.5|^9.0"
             },
-            "time": "2024-09-05T11:56:40+00:00",
+            "time": "2025-09-05T11:56:40+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -4715,7 +4715,7 @@
                 "php": ">=7.1",
                 "psr/http-message": "^1.0 || ^2.0"
             },
-            "time": "2024-04-15T12:06:14+00:00",
+            "time": "2025-04-15T12:06:14+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -4828,7 +4828,7 @@
             "require": {
                 "php": ">=8.0.0"
             },
-            "time": "2024-09-11T13:17:53+00:00",
+            "time": "2025-09-11T13:17:53+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5227,7 +5227,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T04:41:36+00:00",
+            "time": "2025-07-03T04:41:36+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5347,7 +5347,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T04:45:54+00:00",
+            "time": "2025-07-03T04:45:54+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5502,7 +5502,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T04:49:50+00:00",
+            "time": "2025-07-03T04:49:50+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5563,7 +5563,7 @@
                 "phpunit/phpunit": "^11.0",
                 "symfony/process": "^4.2 || ^5"
             },
-            "time": "2024-07-03T04:53:05+00:00",
+            "time": "2025-07-03T04:53:05+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5807,7 +5807,7 @@
                 "ext-dom": "*",
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T04:57:36+00:00",
+            "time": "2025-07-03T04:57:36+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5870,7 +5870,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T04:58:38+00:00",
+            "time": "2025-07-03T04:58:38+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5932,7 +5932,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T05:00:13+00:00",
+            "time": "2025-07-03T05:00:13+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -5991,7 +5991,7 @@
             "require-dev": {
                 "phpunit/phpunit": "^11.0"
             },
-            "time": "2024-07-03T05:01:32+00:00",
+            "time": "2025-07-03T05:01:32+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -6198,7 +6198,7 @@
             "require": {
                 "php": ">=8.2"
             },
-            "time": "2024-10-09T05:16:32+00:00",
+            "time": "2025-10-09T05:16:32+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -6660,7 +6660,7 @@
                 "tomasvotruba/type-coverage": "1.0.0",
                 "tomasvotruba/unused-public": "1.0.0"
             },
-            "time": "2024-10-20T05:08:20+00:00",
+            "time": "2025-10-20T05:08:20+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -6711,7 +6711,7 @@
             "provide": {
                 "psr/clock-implementation": "1.0"
             },
-            "time": "2024-09-25T14:21:43+00:00",
+            "time": "2025-09-25T14:21:43+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -6884,7 +6884,7 @@
             "require": {
                 "php": ">=8.2"
             },
-            "time": "2024-09-25T14:21:43+00:00",
+            "time": "2025-09-25T14:21:43+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -6952,7 +6952,7 @@
             "require": {
                 "php": ">=8.1"
             },
-            "time": "2024-09-25T14:21:43+00:00",
+            "time": "2025-09-25T14:21:43+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -7194,7 +7194,7 @@
                 "php": ">=8.1",
                 "psr/event-dispatcher": "^1"
             },
-            "time": "2024-09-25T14:21:43+00:00",
+            "time": "2025-09-25T14:21:43+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -7734,7 +7734,7 @@
             "suggest": {
                 "ext-ctype": "For best performance"
             },
-            "time": "2024-09-09T11:45:10+00:00",
+            "time": "2025-09-09T11:45:10+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -7903,7 +7903,7 @@
             "suggest": {
                 "ext-intl": "For best performance"
             },
-            "time": "2024-09-10T14:38:51+00:00",
+            "time": "2025-09-10T14:38:51+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -7992,7 +7992,7 @@
             "suggest": {
                 "ext-intl": "For best performance"
             },
-            "time": "2024-09-09T11:45:10+00:00",
+            "time": "2025-09-09T11:45:10+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -8084,7 +8084,7 @@
             "suggest": {
                 "ext-mbstring": "For best performance"
             },
-            "time": "2024-12-23T08:48:59+00:00",
+            "time": "2025-12-23T08:48:59+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -8341,7 +8341,7 @@
             "suggest": {
                 "ext-uuid": "For best performance"
             },
-            "time": "2024-09-09T11:45:10+00:00",
+            "time": "2025-09-09T11:45:10+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -8859,7 +8859,7 @@
             "require": {
                 "php": ">=8.1"
             },
-            "time": "2024-09-27T08:32:26+00:00",
+            "time": "2025-09-27T08:32:26+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -9189,7 +9189,7 @@
                 "ext-xmlwriter": "*",
                 "php": "^7.2 || ^8.0"
             },
-            "time": "2024-03-03T12:36:25+00:00",
+            "time": "2025-03-03T12:36:25+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {
@@ -9247,7 +9247,7 @@
                 "phpstan/phpstan-phpunit": "^2.0",
                 "phpunit/phpunit": "^8.5.21 || ^9.5.10"
             },
-            "time": "2024-12-21T16:25:41+00:00",
+            "time": "2025-12-21T16:25:41+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -9390,7 +9390,7 @@
             "suggest": {
                 "ext-intl": "Use Intl for transliterator_transliterate() support"
             },
-            "time": "2024-11-21T01:49:47+00:00",
+            "time": "2025-11-21T01:49:47+00:00",
             "type": "library",
             "installation-source": "source",
             "autoload": {

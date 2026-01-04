@@ -301,7 +301,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p>Telif Hakkı © 2024 AutoHeaven</p>
+                <p>Telif Hakkı © 2025 AutoHeaven</p>
             </div>
         </div>
     </div>
